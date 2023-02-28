@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VilYoIiKUzMD7JMnE5KPEK5E2Js110MS7gylx92TgOGgRqE879gHO5wz/cRnQv3c+9CpxUgSdkIrO+tA1l85BQ==",
+  "success": true,
+  "projectFilePath": "/Users/motilahiani/RiderProjects/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "/Users/motilahiani/.nuget/packages/newtonsoft.json/13.0.3-beta1/newtonsoft.json.13.0.3-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
